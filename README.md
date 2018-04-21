@@ -1,4 +1,4 @@
-# platform-cooperativism-and-digital-education
+# Platform cooperativism and digital education
 Investigating the possibilities of platform cooperativism and digital education
 
 ## Resources
