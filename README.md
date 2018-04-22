@@ -1,8 +1,8 @@
 # Platform cooperativism and digital education
 Investigating the possibilities of platform cooperativism and digital education
 
-## Diagram - Mapping Out A Radical Digital Citizenship for Digital Education
-https://www.lucidchart.com/documents/edit/57c19ef7-329f-4541-91ed-6edd0a44436c/0
+## Diagrams
+[Mapping Out A Radical Digital Citizenship for Digital Education](https://www.lucidchart.com/documents/edit/57c19ef7-329f-4541-91ed-6edd0a44436c/0) - open for anyone to collaborate (requires Lucidchart account, free for educational use)
 - [Set up a free Lucidchart account by verifying your educational status](https://www.lucidchart.com/pages/usecase/education)
 
 ## General resources
