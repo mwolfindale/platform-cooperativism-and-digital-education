@@ -1,5 +1,5 @@
 # Platform cooperativism and digital education
-_Investigating the possibilities of platform cooperativism and digital education_
+_Investigating the possibilities of platform cooperativism for digital education_
 
 This repository currently serves to group together a collection of resources about platform cooperativism and digital education - but could be much more. Its creation was inspired by an assignment written in April 2018 on these issues as part of the Digital Education in Global Context course on the online MSc in Digital Education at the University of Edinburgh.
 
