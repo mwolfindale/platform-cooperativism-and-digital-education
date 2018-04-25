@@ -5,6 +5,6 @@
 #designjustice'
 ([Sasha Costanza-Chock 2018](https://twitter.com/schock/status/956589635102064640))
 
-https://colloqate.org/
+[Colloqate](https://colloqate.org/) - 'Designing Spaces for Racial, Social, and Cultural Equity'
 
 [Gender Evaluation Methodology (GEM)](http://www.genderevaluation.net/)
